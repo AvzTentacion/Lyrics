@@ -1,0 +1,14 @@
+.wallpaper{ 
+    background-image: url(img/19xxx-superJumbo-v2.jpg);
+    background-size: cover;
+    background-position: right;
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+}
